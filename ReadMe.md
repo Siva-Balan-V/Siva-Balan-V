@@ -1,5 +1,5 @@
 #  About Me:
- I’m looking to collaborate on Python software development<br> I’m looking for help with internship for python software development roles<br> I’m currently persuing my BE- Computer Science and Engineering  3rd Year
+ I’m looking to collaborate on Python software development<br> I’m looking for help with internship for python software development roles<br> I’m currently persuing my BE- Computer Science and Engineering  FinalYear
 
 
 ##  Socials:
