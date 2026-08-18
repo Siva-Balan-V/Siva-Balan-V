@@ -151,12 +151,12 @@
 
 <div align="center">
 
-| 🍛 Madhuram — Restaurant Ops | 🏛️ Symposium — Event Hub |
+| 🍛 Madhuram — Restaurant Ops | 🚚 VRP Logistics — Route Optimization |
 |:---|:---|
-| Complete restaurant management — POS, KDS, billing, analytics | Technical symposium website — 8 depts, 35+ events |
-| Public site + admin panel — a full mission control | Built for PPG Institute of Technology |
-| `JavaScript` · `Full-Stack` · `POS` · `Analytics` | `TypeScript` · `Next.js` · `Responsive Design` |
-| [![Repo](https://img.shields.io/badge/View_Mission-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siva-Balan-V/madhuram-restaurant) | [![Repo](https://img.shields.io/badge/View_Mission-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cbeAbishek/Symposium_landing_site) |
+| Complete restaurant management — POS, KDS, billing, analytics | Last-mile delivery route optimization with multi-vehicle routing |
+| Public site + admin panel — a full mission control | OR-Tools solver, FastAPI backend, React + interactive map dashboard |
+| `JavaScript` · `Full-Stack` · `POS` · `Analytics` | `Python` · `FastAPI` · `React.js` · `OR-Tools` · `Docker` |
+| [![Repo](https://img.shields.io/badge/View_Mission-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siva-Balan-V/madhuram-restaurant) | [![Repo](https://img.shields.io/badge/View_Mission-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siva-Balan-V/vrp-logistics) |
 
 </div>
 
