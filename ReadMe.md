@@ -122,12 +122,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siva-Balan-V&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Balan-V&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" width="48%" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Siva-Balan-V&theme=tokyonight&border_radius=12" width="70%" />
 
 <br/>
