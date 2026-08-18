@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a4e,100:2d1b69&height=250&section=header&text=Sivabalan%20V&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20%C2%B7%20ML%20Enthusiast%20%C2%B7%20Software%20Engineer&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:1a1a4e,100:2d1b69&height=250&section=header&text=Sivabalan%20V&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=38&desc=🚀%20Full-Stack%20Developer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Problem%20Solver&descAlignY=60&descSize=18" width="100%" />
 </div>
 
 <div align="center">
@@ -17,17 +17,31 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-| | Mission Briefing |
-|:---|:---|
-| **Name** | Sivabalan V |
-| **Role** | Full-Stack Developer & ML Explorer |
-| **Study** | B.E. Computer Science Engineering |
-| **Location** | India · IST (UTC+5:30) |
-| **Core Strengths** | Full-Stack · Machine Learning · DevOps · Databases · Visualization |
-| **Current Orbit** | Building production-ready products end-to-end |
-| | Deep-diving into cloud-native architectures |
-| | Open to Software Developer roles |
-| | Automating missions so the ship flies itself |
+```
++---------------------------------------------------------------+
+|  🛰️  MISSION  BRIEFING                                       |
++---------------------------------------------------------------+
+|  Name           :  Sivabalan V                                |
+|  Role           :  Full-Stack Developer & Software Engineer   |
+|  Study          :  B.E. Computer Science Engineering          |
+|  Location       :  India · IST (UTC+5:30)                     |
+|  Email          :  sivabalanv2005@gmail.com                   |
+|  Portfolio      :  sivabalan-portfolio.vercel.app             |
+|                                                               |
+|  🚀 Core Strengths:                                           |
+|    * Full-Stack Development  → The hull that holds            |
+|    * Problem Solving         → The navigation AI              |
+|    * Logical Thinking        → The star charts                |
+|    * DevOps                  → The engines that deploy        |
+|    * Databases               → The cargo bay of data          |
+|                                                               |
+|  🛰️ Current Orbit:                                            |
+|    * Building production-ready products end-to-end            |
+|    * Deep-diving into cloud-native architectures              |
+|    * Open to Software Developer roles                         |
+|    * Automating missions so the ship flies itself             |
++---------------------------------------------------------------+
+```
 
 <br clear="right"/>
 
