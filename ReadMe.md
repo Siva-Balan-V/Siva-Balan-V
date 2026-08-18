@@ -130,6 +130,10 @@
 
 <img src="https://streak-stats.demolab.com?user=Siva-Balan-V&theme=tokyonight&border_radius=12" width="70%" />
 
+<br/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Siva-Balan-V&theme=tokyonight&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area_color=1f6feb&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
