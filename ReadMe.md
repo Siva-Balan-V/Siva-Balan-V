@@ -179,21 +179,29 @@
 
 ## 🛫 Flight Log — Experience
 
+<div align="center">
+
 | Mission | Station | Orbit |
-|:---|:---|:---|
+|:---:|:---:|:---:|
 | 🔧 **Full Stack Developer Intern** | KreupAI Technologies LLC, Dubai | Jun 2026 – Sep 2026 |
 | 🛠️ **Django Full Stack Developer** | Nitroware Technologies Pvt. Ltd. | Jan 2025 – Feb 2026 |
+
+</div>
 
 ---
 
 ## 🏆 Mission Milestones
 
+<div align="center">
+
 | | |
-|---|---|
+|:---:|:---:|
 | 🥇 | **1st Place** — National Level Ideathon @ IEEE SB NCERC (₹10,000 prize) |
 | 📜 | **Design Patent** — IoT Smart Weighing Machine (Patent No. 423621-001) |
 | 🏅 | **65th / 11,513 teams** — Niral Thiruvizha 3.0 |
 | 📄 | **Paper Presentation** — Blockchain for Suspicious Data Detection (GSIBEH-2K25) |
+
+</div>
 
 ---
 
