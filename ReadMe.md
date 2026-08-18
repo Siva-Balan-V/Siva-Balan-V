@@ -4,13 +4,10 @@
 
 <div align="center">
 
-```
-          🚀  M I S S I O N   C O N T R O L  🚀
-  ┌────────────────────────────────────────────────────────┐
-  │  Every commit is a launch.  Every deploy, an orbit.   │
-  │  Code is gravity — it holds the universe together.    │
-  └────────────────────────────────────────────────────────┘
-```
+| | M I S S I O N &nbsp; C O N T R O L |
+|:---|:---|
+| 🚀 | Every commit is a launch. Every deploy, an orbit. |
+| | Code is gravity — it holds the universe together. |
 
 </div>
 
@@ -20,29 +17,17 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```yaml
-╔═════════════════════════════════════════════════════╗
-║               🛰️  MISSION  BRIEFING                ║
-╠═════════════════════════════════════════════════════╣
-║  Name     : Sivabalan V                             ║
-║  Role     : Full-Stack Developer & ML Explorer      ║
-║  Study    : B.E. Computer Science Engineering       ║
-║  Location : India 🇮🇳  ·  IST (UTC+5:30)           ║
-║                                                     ║
-║  🚀 Thrusters — Core Strengths:                     ║
-║    ├─ 🌐 Full-Stack   → The hull that holds         ║
-║    ├─ 🧠 Machine Learning → The navigation AI       ║
-║    ├─ ⚙️  DevOps       → The engines that deploy     ║
-║    ├─ 🗄️  Databases    → The cargo bay of data      ║
-║    └─ 📊 Visualization → The star charts             ║
-║                                                     ║
-║  🛰️ Current Orbit:                                  ║
-║    ● Building production-ready products end-to-end  ║
-║    ● Deep-diving into cloud-native architectures    ║
-║    ● Open to Full-Stack / ML collaborations         ║
-║    ● Automating missions so the ship flies itself ⚡║
-╚═════════════════════════════════════════════════════╝
-```
+| | Mission Briefing |
+|:---|:---|
+| **Name** | Sivabalan V |
+| **Role** | Full-Stack Developer & ML Explorer |
+| **Study** | B.E. Computer Science Engineering |
+| **Location** | India · IST (UTC+5:30) |
+| **Core Strengths** | Full-Stack · Machine Learning · DevOps · Databases · Visualization |
+| **Current Orbit** | Building production-ready products end-to-end |
+| | Deep-diving into cloud-native architectures |
+| | Open to Software Developer roles |
+| | Automating missions so the ship flies itself |
 
 <br clear="right"/>
 
@@ -103,13 +88,15 @@
 
 | System | Skills | Power Level |
 |:---|:---|:---:|
-| 🌐 **Full-Stack** | React, Next.js, Node.js, Flask, Django | ⚡⚡⚡⚡⚡ |
-| 🧠 **Machine Learning** | NumPy, Pandas, scikit-learn, Matplotlib | ⚡⚡⚡⚡☆ |
-| 🎨 **Frontend** | Tailwind CSS, Responsive Design, UI/UX | ⚡⚡⚡⚡⚡ |
+| 🌐 **Full-Stack Development** | React, Next.js, Node.js, Flask, Django | ⚡⚡⚡⚡☆ |
+| 🧠 **Machine Learning** | NumPy, Pandas, scikit-learn, Matplotlib | ⚡⚡⚡☆☆ |
+| 🎨 **Frontend** | Tailwind CSS, Responsive Design, UI/UX | ⚡⚡⚡⚡☆ |
 | 🗄️ **Databases** | PostgreSQL, MongoDB, Database Design | ⚡⚡⚡⚡☆ |
-| ⚙️ **DevOps** | Docker, GitHub Actions, CI/CD Pipelines | ⚡⚡⚡⚡☆ |
-| ☁️ **Cloud** | Vercel, DigitalOcean, Deployment | ⚡⚡⚡⚡☆ |
+| ⚙️ **DevOps** | Docker, GitHub Actions, CI/CD Pipelines | ⚡⚡⚡☆☆ |
+| ☁️ **Cloud** | Vercel, DigitalOcean, Deployment | ⚡⚡☆☆☆ |
 | 📊 **Data** | Data Visualization, ETL, Analysis | ⚡⚡⚡⚡☆ |
+| 🧪 **Testing** | Unit Tests, Integration Tests, Debugging | ⚡⚡⚡⚡☆ |
+| 💡 **Problem Solving** | Business Logic, Logical Thinking, Algorithms | ⚡⚡⚡⚡☆ |
 
 <sub>⚡ Fully Charged &nbsp;·&nbsp; ☆ Charging</sub>
 
@@ -121,13 +108,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siva-Balan-V&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Balan-V&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Siva-Balan-V&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true&hide_border=false" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-Balan-V&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" width="48%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=Siva-Balan-V&theme=tokyonight&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=Siva-Balan-V&theme=tokyonight&border_radius=12" width="70%" />
 
 </div>
 
@@ -200,22 +187,15 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║               🎓  TRAINING  COMPLETED  🎓                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  📜  Oracle Cloud Infrastructure 2025 — Foundation Associate     ║
-║  📜  NPTEL — Introduction to IoT (Score: 87%)                   ║
-║  📜  MongoDB — AI & Vector Search (ICT Academy)                 ║
-║  📜  Cultiv8 — Web Designing (DST, Govt. of India)              ║
-║  📜  Bharathiyar University — Programming Fundamentals (89%)    ║
-║  📜  ICT Academy Learnathon 2024 — 8+ courses                  ║
-║                                                                  ║
-║  🌟  International Conference — GSIBEH-2K25 Paper               ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+| | Certification | Issuer |
+|:---:|:---|:---|
+| 📜 | Oracle Cloud Infrastructure 2025 | Foundation Associate |
+| 📜 | NPTEL — Introduction to IoT (Score: 87%) | NPTEL |
+| 📜 | MongoDB — AI & Vector Search | ICT Academy |
+| 📜 | Cultiv8 — Web Designing | DST, Govt. of India |
+| 📜 | Bharathiyar University — Programming Fundamentals (89%) | Bharathiyar University |
+| 📜 | ICT Academy Learnathon 2024 — 8+ courses | ICT Academy |
+| 🌟 | International Conference — GSIBEH-2K25 Paper | GSIBEH-2K25 |
 
 </div>
 
@@ -237,16 +217,12 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  🚀  The cosmos is vast — let's build something that orbits it  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  💼  Open to  : Full-Stack Roles · ML Projects · Internships    ║
-║  🤝  Ready for: Collaboration · Open Source · Freelance         ║
-║  🛰️  In Orbit : Always learning, always launching new code      ║
-║  📬  Response : Within 24 hours — swift as light speed          ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+| | |
+|:---|:---|
+| 💼 | **Open to** : Software Developer Roles · Full-Stack Projects · Internships |
+| 🤝 | **Ready for** : Collaboration · Open Source · Freelance |
+| 🛰️ | **In Orbit** : Always learning, always launching new code |
+| 📬 | **Response** : Within 24 hours — swift as light speed |
 
 *"The universe is not only stranger than we imagine — it's stranger than we can imagine.*
 *But the best code? That we can imagine. Let's build it together." 🚀*
