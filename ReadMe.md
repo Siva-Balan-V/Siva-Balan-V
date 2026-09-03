@@ -182,6 +182,7 @@
 | Mission | Station | Orbit |
 |:---:|:---:|:---:|
 | 🔧 **Full Stack Developer Intern** | KreupAI Technologies LLC, Dubai | Jun 2026 – Sep 2026 |
+| 🗄️ **Backend Developer Intern** | NexGenAds Technologies Pvt., Ltd., | Jun 2026 - Jul 2026 |
 | 🛠️ **Django Full Stack Developer** | Nitroware Technologies Pvt. Ltd. | Jan 2025 – Feb 2026 |
 
 </div>
